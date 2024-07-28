@@ -1,2 +1,3 @@
 ### TypeScript Notes
-- It is a notes of TypeScript which was taken from online
+- It is a notes of TypeScript
+- All topics is covered
